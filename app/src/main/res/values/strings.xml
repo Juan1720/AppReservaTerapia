@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppPhysicare</string>
+    <string name="valtetitulo">PHYSICARE</string>
+    <string name="valetusuario">USUARIO :</string>
+    <string name="valedtusuario">INGRESE SU USUARIO</string>
+    <string name="valetcontrasena">CONTRASEÑA :</string>
+    <string name="valedtcontrasena">INGRESE SU CONTRASEÑA</string>
+    <string name="valetiniciarsesion">INICIAR SESION</string>
+    <string name="valetregistrarse">REGISTRARSE</string>
+</resources>
