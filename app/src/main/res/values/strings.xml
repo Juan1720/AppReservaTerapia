@@ -19,4 +19,24 @@
     <string name="valfecha">FECHA</string>
     <string name="valhora">HORA</string>
     <string name="btnguardaR">GUARDAR</string>
+    <string name="valnombre" />
+    <string name="valagenda">Agendar Cita</string>
+    <string name="valvercitas">Ver Citas</string>
+    <string name="valconocenos">Conócenos</string>
+    <string name="valsalir">Salir</string>
+    <string name="vallistageneral">Lista General</string>
+    <string name="vallistauser">Lista Usuarios</string>
+    <string name="valetnombre">Ingrese su Nombre</string>
+    <string name="valetapellidos">Ingrese su Apellido</string>
+    <string name="valetnomusuario">Ingrese su Usuario</string>
+    <string name="valettelefono">Ingrese su Telefono</string>
+    <string name="valetcorreo">Ingrese su Correo</string>
+    <string name="valetpassword">Ingrese su Contraseña</string>
+    <string name="valagendarcita">AGENDAR CITA</string>
+    <string name="valterapia">Tipo de Terapia</string>
+    <string name="valfechaterapia">Fecha</string>
+    <string name="valhoraterapia">Hora</string>
+    <string name="btnagendar">AGENDAR CITA</string>
+    <string name="valbtnregistrarse">REGISTRAR</string>
+    <string name="valregistrarse">REGISTRARSE</string>
 </resources>
