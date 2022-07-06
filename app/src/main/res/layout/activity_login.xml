@@ -28,7 +28,7 @@
         app:layout_constraintHorizontal_bias="0.504"
         app:layout_constraintStart_toStartOf="@+id/guideline3"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:srcCompat="@mipmap/img" />
+        app:srcCompat="@mipmap/login" />
 
     <TextView
         android:id="@+id/textView2"
