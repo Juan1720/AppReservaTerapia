@@ -7,4 +7,16 @@
     <string name="valedtcontrasena">INGRESE SU CONTRASEÑA</string>
     <string name="valetiniciarsesion">INICIAR SESION</string>
     <string name="valetregistrarse">REGISTRARSE</string>
+    <string name="valetvercitas">VER CITAS</string>
+    <string name="valbtncancelarcita">CANCELAR</string>
+    <string name="valetlistausuariotitulo">LISTA USUARIOS</string>
+    <string name="valbtneliminar">ELIMINAR</string>
+    <string name="valcitaagenda">CITAS AGENDADAS</string>
+    <string name="valbtnactualizarcita">ACTUALIZAR CITA</string>
+    <string name="valbtneliminarcita">ELIMINAR CITA</string>
+    <string name="valetactualizarcitatitulo">ACTUALIZAR CITA</string>
+    <string name="valettipoterapia">TIPO DE TERAPIA</string>
+    <string name="valfecha">FECHA</string>
+    <string name="valhora">HORA</string>
+    <string name="btnguardaR">GUARDAR</string>
 </resources>
