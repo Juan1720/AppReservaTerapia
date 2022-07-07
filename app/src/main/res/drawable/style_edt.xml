@@ -1,9 +1,10 @@
 <selector  xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:state_enabled="true" android:state_focused="true">
-        <shape android:layout_width="match_parent" android:shape="rectangle">
+        <shape android:layout_width="match_parent" android:shape="rectangle" android:tint="@color/cyan">
             <solid android:color="@android:color/white" />
             <corners android:radius="8dp" />
+            <gradient android:startColor="@color/cyan"/>
             <stroke android:color="@color/teal_700" android:width="2dp" />
         </shape>
     </item>
